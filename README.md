@@ -10,8 +10,6 @@ Feel free to contact me on:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/di.coura/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegogomes.10.9@gmail.com)
 
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegocoura&show_icons=true&theme=dracula)
-
 ## Technologies
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegocoura&layout=donut)](https://github.com/diegocoura/github-readme-stats)
@@ -26,5 +24,4 @@ Feel free to contact me on:
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-
 </p>
