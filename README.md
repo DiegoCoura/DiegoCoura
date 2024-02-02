@@ -1,4 +1,4 @@
-### Hello! I`m Diego Coura 🖐️
+### Hello! I'm Diego Coura 🖐️
 
 With 1 year of software development experience, I have build a solid expertise in React, JavaScript, HTML, CSS, and Bootstrap, gaining practical proficiency through hands-on projects.
 
